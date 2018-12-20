@@ -11,6 +11,7 @@ public class Card {
    
    public static void main(String args[]) {
 	   //In Java, each class can have its own main (like int main() from C++)
+	   System.out.println("hi");
    }
    
    
