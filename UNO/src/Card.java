@@ -10,7 +10,7 @@ public class Card {
    //TODO: add the other member properties shown in the UML
    
    public static void main(String args[]) {
-	   //In Java, each class can have its own main (like int main() from C++)
+	   //In Java, each class can have its own main function
 	   System.out.println("hi");
    }
    
